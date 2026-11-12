@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# Data is shared via Drive so everyone gets identical numbers.
+# Remove the next line only if you decide to commit the data (check Yahoo's terms first).
+data/
